@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+This is where you'll find my CSS, HTML and PHP Scripts.
